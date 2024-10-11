@@ -14,7 +14,5 @@ int main()
         {
             a=-(t+1)/2;
         }
-
-
     cout<<a<<endl;
 }
